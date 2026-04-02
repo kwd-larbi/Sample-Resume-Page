@@ -32,35 +32,6 @@ Sample-Resume-Page/
 └── README.md          # Project documentation (this file)
 ```
 
-## 🚀 Getting Started
-
-### Local Development
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kwd-larbi/Sample-Resume-Page.git
-   cd Sample-Resume-Page
-   ```
-
-2. **Open in browser**
-   - Simply open `index.html` in your preferred web browser
-   - Or use a local server:
-     ```bash
-     python -m http.server 8000
-     ```
-   - Then visit `http://localhost:8000`
-
-## 🌍 Deployment with GitHub Pages
-
-This site is deployed using **GitHub Pages** for free hosting.
-
-### Setup Instructions
-
-1. Go to repository settings: [Settings → Pages](https://github.com/kwd-larbi/Sample-Resume-Page/settings/pages)
-2. Select **Deploy from a branch**
-3. Choose branch: `main` and folder: `/ (root)`
-4. Save and wait for deployment (usually within 2 minutes)
-5. Access your live site at: `https://kwd-larbi.github.io/Sample-Resume-Page/`
 
 ## 🎓 Content Highlights
 
