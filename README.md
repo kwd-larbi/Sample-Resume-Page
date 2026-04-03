@@ -4,7 +4,7 @@ A clean, professional, and responsive CV/resume website built with semantic HTML
 
 ## 🌐 Live Demo
 
-View the live resume: **[https://kwd-larbi.github.io/Sample-Resume-Page/]('https://kwd-larbi.github.io/Sample-Resume-Page/')**
+View the live resume: **[https://kwd-larbi.github.io/Sample-Resume-Page/](https://kwd-larbi.github.io/Sample-Resume-Page/)**
 
 ## 📋 About
 
