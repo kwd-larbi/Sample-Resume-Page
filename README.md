@@ -74,4 +74,4 @@ Feel free to fork this repository and customize it for your own resume! If you h
 
 # Acknowledgments
 
-This project was inspired by the great work done by [roadmap.sh](https://roadmap.sh) in creating clear and structured roadmaps for learning.
+This project was inspired by the great work done by 'https://roadmap.sh/projects/single-page-cv' in creating clear and structured roadmaps for learning.
